@@ -1,0 +1,8 @@
+[book]
+authors = ["kflange"]
+multilingual = false
+src = "src"
+title = "cable"
+
+[output.html]
+mathjax-support = true
